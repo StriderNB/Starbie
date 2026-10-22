@@ -1,3 +1,4 @@
+
 # Huge Text (H1) Starbie
 <img width="1059" height="962" alt="Screenshot 2026-10-11 205459" src="https://github.com/user-attachments/assets/dbccc535-b8ca-4084-a6e7-e5579f7a0692" />
 
@@ -28,3 +29,7 @@ The radial menu is controlled by tilting the Starbie in the direction of a desir
 | Estimated total shipping | 1 | | | $8.30 | |
 
 # Medium Text (H3) Additional images
+<img width="1764" height="1209" alt="Screenshot 2026-10-22 164646" src="https://github.com/user-attachments/assets/a96d5229-b246-4a75-b3cb-6da3d27bb170" />
+<img width="1308" height="900" alt="Screenshot 2026-10-22 164712" src="https://github.com/user-attachments/assets/2b714f96-bb0a-44b0-b124-1f714f3d1fc1" />
+<img width="1518" height="973" alt="Screenshot 2026-10-22 164813" src="https://github.com/user-attachments/assets/61547049-62d7-4a29-8ef8-afd8f39e28de" />
+<img width="1342" height="1140" alt="Screenshot 2026-10-22 164745" src="https://github.com/user-attachments/assets/c47bba3f-6764-4e80-b53b-cb22fec2096e" />
