@@ -4,5 +4,5 @@
 Week 1 project of Half Life event hosted by Hack Club. The starter project Starbie with an additional feature, light sensing.
 # Huge Text (H3) Features
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/StriderNB/Starbie/tree/main/pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/StriderNB/Starbie/tree/main/Starbie%20Kicad/Starbie%20Kicad.kicad_pcb)
 
