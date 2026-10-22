@@ -1,20 +1,22 @@
 
-# Huge Text (H1) Starbie
+# Starbie
 <img width="1059" height="962" alt="Screenshot 2026-10-11 205459" src="https://github.com/user-attachments/assets/dbccc535-b8ca-4084-a6e7-e5579f7a0692" />
 
 Week 1 project of Half Life event hosted by Hack Club. The starter project Starbie with an additional feature, light sensing.
-# Medium Text (H3) Details
-Almost edactly the starter project Starbie which has two buttons to control it and a character that can nap, heart, jump, or run.
+# Details
+Simmilar to the starter project Starbie which has two buttons to control it and a character that can nap, heart, jump, or run.
 
-I added an additional photoresistor which at the moment only allows Starbie to sleep when it gets to a certain threshold of darkness.
+I added an additional photoresistor which at the moment only allows Starbie to sleep when it gets to a certain threshold of darkness. 
 
-# Medium Text (H3) Controls
+# Controls
 The left button opens the radial menu, it's second press choses the highlighted action.
+
 The right button shows/hides the stats screen.
+
 The radial menu is controlled by tilting the Starbie in the direction of a desired action.
 
 
-# Medium Text (H3) BOM
+# BOM
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | :--- | :---: | :--- | :---: | :---: | :--- |
 | Conn_01x08_Pin & Conn_01x04_Pin | 1 | Aliexpress | $2.12 | $2.12 | [Link](https://aliexpress.us) |
@@ -28,7 +30,7 @@ The radial menu is controlled by tilting the Starbie in the direction of a desir
 | Keycaps | 10 | AliExpress | $0.30 | $3.00 | [Link](https://aliexpress.us) |
 | Estimated total shipping | 1 | | | $8.30 | |
 
-# Medium Text (H3) Additional images
+# Additional images
 <img width="1764" height="1209" alt="Screenshot 2026-10-22 164646" src="https://github.com/user-attachments/assets/a96d5229-b246-4a75-b3cb-6da3d27bb170" />
 <img width="1308" height="900" alt="Screenshot 2026-10-22 164712" src="https://github.com/user-attachments/assets/2b714f96-bb0a-44b0-b124-1f714f3d1fc1" />
 <img width="1518" height="973" alt="Screenshot 2026-10-22 164813" src="https://github.com/user-attachments/assets/61547049-62d7-4a29-8ef8-afd8f39e28de" />
